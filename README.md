@@ -39,4 +39,4 @@ To run the game locally:
 
 1. Clone the repository or download the ZIP file:
    ```bash
-   git clone https://github.com/tautvydasKre/Pig-game.git
+   git clone https://github.com/TautvydasKre/Pig-game.git
